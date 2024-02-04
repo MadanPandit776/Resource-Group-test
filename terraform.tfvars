@@ -8,5 +8,9 @@ RG = {
     name = "ProdRG"
     location = "europe us"
   }
+rg3 = {
+    name = "DEVRG"
+    location = "west us"
+  }
 
 }
